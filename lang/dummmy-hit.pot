@@ -1,0 +1,70 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Dummy-hit\n"
+"POT-Creation-Date: 2013-06-25 23:09+0100\n"
+"PO-Revision-Date: 2013-06-25 23:10+0100\n"
+"Last-Translator: \n"
+"Language-Team: Jasper Kips <jasper@planetkips.nl>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.5\n"
+"X-Poedit-KeywordsList: __;gettext;gettext_noop;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: /Users/jasper/Sites/wordpress/wp-content/plugins/"
+"dummy-hit\n"
+
+#: /Users/jasper/Sites/wordpress/wp-content/plugins/dummy-hit/wp-dummy-hit.php:21
+msgid "Dummy Counter"
+msgstr ""
+
+#: /Users/jasper/Sites/wordpress/wp-content/plugins/dummy-hit/wp-dummy-hit.php:65
+msgid "(Super)Administrator"
+msgstr ""
+
+#: /Users/jasper/Sites/wordpress/wp-content/plugins/dummy-hit/wp-dummy-hit.php:66
+msgid "Editor"
+msgstr ""
+
+#: /Users/jasper/Sites/wordpress/wp-content/plugins/dummy-hit/wp-dummy-hit.php:67
+msgid "Author"
+msgstr ""
+
+#: /Users/jasper/Sites/wordpress/wp-content/plugins/dummy-hit/wp-dummy-hit.php:68
+msgid "Contributor"
+msgstr ""
+
+#: /Users/jasper/Sites/wordpress/wp-content/plugins/dummy-hit/wp-dummy-hit.php:69
+msgid "Subscriber"
+msgstr ""
+
+#: /Users/jasper/Sites/wordpress/wp-content/plugins/dummy-hit/wp-dummy-hit.php:74
+msgid "Widget Title"
+msgstr ""
+
+#: /Users/jasper/Sites/wordpress/wp-content/plugins/dummy-hit/wp-dummy-hit.php:78
+msgid "Explanatory text before counter"
+msgstr ""
+
+#: /Users/jasper/Sites/wordpress/wp-content/plugins/dummy-hit/wp-dummy-hit.php:82
+msgid "Number of Hits to Start From"
+msgstr ""
+
+#: /Users/jasper/Sites/wordpress/wp-content/plugins/dummy-hit/wp-dummy-hit.php:86
+msgid ""
+"Number of seconds after last before random hits will be added. It is also "
+"the mean number of seconds between two simulated hits."
+msgstr ""
+
+#: /Users/jasper/Sites/wordpress/wp-content/plugins/dummy-hit/wp-dummy-hit.php:90
+msgid "The minimal user level to ignore for the counter"
+msgstr ""
+
+#: /Users/jasper/Sites/wordpress/wp-content/plugins/dummy-hit/wp-dummy-hit.php:96
+msgid "Count all human hits"
+msgstr ""
+
+#: /Users/jasper/Sites/wordpress/wp-content/plugins/dummy-hit/wp-dummy-hit.php:107
+msgid "Count robot and spider hits"
+msgstr ""
